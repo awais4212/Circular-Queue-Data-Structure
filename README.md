@@ -1,7 +1,3 @@
-Sure — here’s the clean content you can directly copy into your `README.md` file:
-
----
-
 # 🔄 Circular Queue Data Structure
 
 A **Circular Queue** is a linear data structure that connects the rear and front ends, forming a circle. Unlike a regular queue, when the rear reaches the end, it **wraps around to the beginning** if space is available — eliminating wasted space and improving **memory efficiency** for fixed-size implementations.
